@@ -7,7 +7,7 @@
 #
 Name     : perl-Hash-Flatten
 Version  : 1.19
-Release  : 27
+Release  : 28
 URL      : https://cpan.metacpan.org/authors/id/B/BB/BBC/Hash-Flatten-1.19.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BB/BBC/Hash-Flatten-1.19.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libh/libhash-flatten-perl/libhash-flatten-perl_1.19-2.debian.tar.xz
